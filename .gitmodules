@@ -1,0 +1,3 @@
+[submodule "dir1"]
+	path = dir1
+	url = https://github.com/jps3318/dir1-project
