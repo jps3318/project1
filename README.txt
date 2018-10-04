@@ -13,5 +13,5 @@ git push --set-upstream origin master
 # replace the dir with the new project
 cd ../project1
 git rm -r dir1
-git submodule add https://github.com/jps3318/dir1-project dir1
+git submodule add git@github.com:jps3318/dir1-project dir1
 git commit
