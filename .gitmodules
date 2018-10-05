@@ -1,3 +1,7 @@
 [submodule "dir1"]
 	path = dir1
 	url = git@github.com:jps3318/dir1-project
+[submodule "dir3"]
+	path = dir3
+	url = git@github.com:jps3318/dir1-project
+	branch = master
